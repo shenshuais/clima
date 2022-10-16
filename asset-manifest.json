@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clima/static/css/main.ad5155ad.css",
-    "main.js": "/clima/static/js/main.b5752174.js",
+    "main.js": "/clima/static/js/main.4e3d584a.js",
     "static/js/787.01f48bee.chunk.js": "/clima/static/js/787.01f48bee.chunk.js",
     "static/media/imagen-nieve.jpg": "/clima/static/media/imagen-nieve.042e3b3ea840bb111731.jpg",
     "static/media/imagen-neblina.jpg": "/clima/static/media/imagen-neblina.aaa4d02fae156aec4e9a.jpg",
@@ -12,11 +12,11 @@
     "static/media/imagen-trueno.jpg": "/clima/static/media/imagen-trueno.fdeb1dac36fedc2385de.jpg",
     "index.html": "/clima/index.html",
     "main.ad5155ad.css.map": "/clima/static/css/main.ad5155ad.css.map",
-    "main.b5752174.js.map": "/clima/static/js/main.b5752174.js.map",
+    "main.4e3d584a.js.map": "/clima/static/js/main.4e3d584a.js.map",
     "787.01f48bee.chunk.js.map": "/clima/static/js/787.01f48bee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad5155ad.css",
-    "static/js/main.b5752174.js"
+    "static/js/main.4e3d584a.js"
   ]
 }
